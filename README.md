@@ -7,7 +7,7 @@
   ## Buy BADG 🚀
 
   <!-- DeDust logo and link -->
-  [![Buy on DeDust](https://t.me/badg_chat/241)](https://dedust.io/swap/TON/EQCisWBaHohOw74apOcku3ao4wCQTG7Z8b69qBdjPog6DUiX)  
+  [![Buy on DeDust](https://raw.githubusercontent.com/BADGonTON/index.html/refs/heads/main/IMG_4606.jpeg)](https://dedust.io/swap/TON/EQCisWBaHohOw74apOcku3ao4wCQTG7Z8b69qBdjPog6DUiX)  
 </div>
 
 ---
@@ -16,6 +16,6 @@
 
 <div align="center">
   <!-- Telegram and X icons with links -->
-  [![Telegram](https://t.me/badg_chat/242)](https://t.me/badg_meme)  
-  [![X (Twitter)](https://t.me/badg_chat/243)](https://x.com/badg_meme)
+  [![Telegram](https://raw.githubusercontent.com/BADGonTON/index.html/refs/heads/main/IMG_4605.jpeg)](https://t.me/badg_meme)  
+  [![X (Twitter)](https://raw.githubusercontent.com/BADGonTON/index.html/refs/heads/main/IMG_4607.jpeg)](https://x.com/badg_meme)
 </div>
