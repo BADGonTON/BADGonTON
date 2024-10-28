@@ -7,7 +7,7 @@
   ## Buy BADG 🚀
 
   <!-- DeDust logo and link -->
-  [![Buy on DeDust](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/DeDust_Logo.png/200px-DeDust_Logo.png)](https://dedust.io/swap/TON/EQCisWBaHohOw74apOcku3ao4wCQTG7Z8b69qBdjPog6DUiX)  
+  [![Buy on DeDust](https://example.com/dedust_logo.png)](https://dedust.io/swap/TON/EQCisWBaHohOw74apOcku3ao4wCQTG7Z8b69qBdjPog6DUiX)  
 </div>
 
 ---
@@ -16,7 +16,7 @@
 
 <div align="center">
   <!-- Telegram and X icons with links -->
-  [![Telegram](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/badg_meme)  
-  [![X (Twitter)](https://upload.wikimedia.org/wikipedia/commons/6/6f/Twitter_Logo_as_X.svg)](https://x.com/badg_meme)
+  [![Telegram](https://example.com/telegram_logo.png)](https://t.me/badg_meme)  
+  [![X (Twitter)](https://example.com/x_logo.png)](https://x.com/badg_meme)
 
 </div>
